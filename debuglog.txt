@@ -1,0 +1,3 @@
+qemu-system-x86_64: Initialization of device ide-hd failed: Failed to get "write" lock
+Is another process using the image [weensyos.img]?
+make: *** [GNUmakefile:96: run-console-weensyos] Error 1
